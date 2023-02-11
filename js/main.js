@@ -1,9 +1,9 @@
 var options = {
-  strings: [" Tech Enthusiast", " Computer Scientist", 
- 	"Community Builder",
-	"Data-Driven CS",
+  strings: [" Entusiasta de tecnologia", " Cientista da Computação", 
+ 	"Construtor de comunidade",
+	"CS orientada por dados",
   "Pythonista🐍",
-	"⚽ football fan",
+	"⚽ fãs de futebol",
 	],
   typeSpeed: 100,
   backSpeed:50,
